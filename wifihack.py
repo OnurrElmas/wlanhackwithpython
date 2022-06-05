@@ -42,4 +42,4 @@ def send_email(email, password, message):
 
 hacked = funk()
 
-send_email("elmassecurapp@gmail.com","sinemonur28", hacked)
+send_email("e-mail","password", hacked)
